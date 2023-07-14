@@ -1,0 +1,63 @@
+#header{
+    height: 80vh;
+    width: 100%;
+    margin-top: 70px;
+}
+
+#header.btn-get-started{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: rgb(43, 43, 93);
+    text-decoration: none;
+
+}
+
+.navbar a:hover{
+    color: purple;
+}
+
+.header-img{
+    text-align: right;
+    height: 5px;
+    width: 5px;
+    position:relative;
+    left: 100px;
+    bottom: 200px;
+    object-fit: contain;
+}
+
+#header .animated{
+    object-fit: contain;
+    height: 500px;
+    width: 550px;
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+
+}
+
+@keyframes up-down{
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes up-down{
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+
+
+.card-img-top{
+    height: 300px;
+}
