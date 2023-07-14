@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactsite/static/css/main.737f2fee.css",
+    "main.js": "/reactsite/static/js/main.05ef8208.js",
+    "static/media/img2.jpg": "/reactsite/static/media/img2.9040477b53cf8c12d3a3.jpg",
+    "static/media/img3.jpg": "/reactsite/static/media/img3.cd99a62861180749c4cd.jpg",
+    "static/media/tour.jpg": "/reactsite/static/media/tour.19791ebedabbd903a0bd.jpg",
+    "static/media/trophy.jpg": "/reactsite/static/media/trophy.e6706294960ab8bc6c52.jpg",
+    "static/media/img1.svg": "/reactsite/static/media/img1.dc157e060d73e26a1ca299425bebcbbe.svg",
+    "static/media/player1.jpg": "/reactsite/static/media/player1.2774d8d3354b9a568cd3.jpg",
+    "static/media/accom.jpg": "/reactsite/static/media/accom.cd80f47b6f34cf5801cf.jpg",
+    "index.html": "/reactsite/index.html",
+    "main.737f2fee.css.map": "/reactsite/static/css/main.737f2fee.css.map",
+    "main.05ef8208.js.map": "/reactsite/static/js/main.05ef8208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.737f2fee.css",
+    "static/js/main.05ef8208.js"
+  ]
+}
